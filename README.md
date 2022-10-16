@@ -20,7 +20,7 @@ PATH="$PATH:$HOME/scripts"
 
 5. **Enter the cron command and choose a text editor**
 ```
-crontab -e
+sudo crontab -e
 ```
 6. **Scroll down the bottom and set the values that suits you the most**
 

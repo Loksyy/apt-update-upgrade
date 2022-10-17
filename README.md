@@ -6,7 +6,7 @@ mkdir scripts
 ```
 2. **Copy the update.sh file into the folder and make the script an executable using the command chmod**
 ```
-chomd +x update.sh
+chmod +x update.sh
 ```
 3. **Open the bashrc file** 
 ```

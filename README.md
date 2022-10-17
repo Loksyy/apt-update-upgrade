@@ -35,5 +35,5 @@ sudo crontab -e
 ```
 **Example of a job scheduled everyday at 8:30 AM**
 ```
-30 08 * * * home/user/scripts/update
+30 08 * * * bash ~home/user/scripts/update
 ```

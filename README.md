@@ -23,6 +23,7 @@ PATH="$PATH:$HOME/scripts"
 sudo crontab -e
 ```
 6. **Scroll down the bottom and set the values that suits you the most**
+*(Check out <a href="https://crontab.guru/">Crontab.guru</a> for additional help)*
 
 ```
 # .---------------- minute (0 - 59)

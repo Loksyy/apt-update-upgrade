@@ -19,7 +19,7 @@ echo -e $TEXT_GREEN
 echo 'APT upgrade finished...'
 echo -e $TEXT_JUMP
 
-sudo apt autoremove
+sudo apt -y autoremove
 echo -e $TEXT_GREEN
 echo 'APT auto remove finished...'
 echo -e $TEXT_JUMP

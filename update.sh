@@ -9,12 +9,12 @@ echo -e $TEXT_GREEN
 echo 'APT update finished...'
 echo -e $TEXT_JUMP
 
-sudo apt dist-upgrade
+sudo apt -y dist-upgrade
 echo -e $TEXT_GREEN
 echo 'APT distributive upgrade finished...'
 echo -e $TEXT_JUMP
 
-sudo apt upgrade
+sudo apt -y upgrade
 echo -e $TEXT_GREEN
 echo 'APT upgrade finished...'
 echo -e $TEXT_JUMP
